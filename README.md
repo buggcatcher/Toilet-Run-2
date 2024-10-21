@@ -5,6 +5,7 @@ This game uses 2 set of textures for graphical representation and involves simpl
 
 ![Gameplay GIF](https://github.com/buggcatcher/bug-catcher/blob/main/PKMN.gif?raw=true)            
 add pkmn textures            
+rename the folders to use different textures pack            
 add screen recording of mr. poopie            
 use box to host images        
 
