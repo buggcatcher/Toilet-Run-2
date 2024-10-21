@@ -3,7 +3,7 @@ The **so_long** project is part of the 42 curriculum, where the objective is to 
 The game includes basic elements like movement, collectibles, and an exit.
 This game uses 2 set of textures for graphical representation and involves simple gameplay mechanics.
 
-![Gameplay GIF](https://github.com/buggcatcher/bug-catcher/blob/main/PKMN.gif?raw=true)
+![Gameplay GIF](https://github.com/buggcatcher/bug-catcher/blob/main/PKMN.gif?raw=true)            
 add pkmn textures
 add screen recording of mr. poopie
 
