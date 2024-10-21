@@ -7,7 +7,8 @@ This game uses 2 set of textures for graphical representation and involves simpl
 add pkmn textures            
 rename the folders to use different textures pack            
 add screen recording of mr. poopie            
-use box to host images        
+use box to host images   
+update getting started        
 
 
 ## Features
