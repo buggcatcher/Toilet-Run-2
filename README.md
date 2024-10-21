@@ -4,8 +4,9 @@ The game includes basic elements like movement, collectibles, and an exit.
 This game uses 2 set of textures for graphical representation and involves simple gameplay mechanics.
 
 ![Gameplay GIF](https://github.com/buggcatcher/bug-catcher/blob/main/PKMN.gif?raw=true)            
-add pkmn textures
-add screen recording of mr. poopie
+add pkmn textures            
+add screen recording of mr. poopie            
+use box to host images        
 
 
 ## Features
