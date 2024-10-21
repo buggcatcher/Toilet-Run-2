@@ -1,0 +1,46 @@
+
+structs
+	t_map: matrice 2D di caratteri
+	t_player: rappresenta il giocatore, incluse le coordinate X e Y
+	t_img: per gestire le sprites
+	t_game: finestre, immagini, mappa, ecc.
+
+
+check estensione mappa ✅ 
+check fd mappa ✅ 
+valida la mappa ✅ 
+	check dimensioni ✅
+	controlla che ci sia un giocatore, oggetti, e uscita ✅
+	carica la mappa in un array bidimensionale e creame una copia ✅
+	check muri ✅
+	check giocabilita' sulla copia con floodfill (0, E, C) ✅
+inizializza la finestra di gioco ✅
+	carica le gli sprite ✅
+	disegna la mappa ✅
+	mlx main loop	✅
+movimento e update della mappa ✅
+	elimina e ricarica mappa quando ti muovi ✅
+	ad ogni passo scambia 0 o C con P e P con 0 ✅
+	controllo collisioni con i muri P non puo' avanzare su 1 ✅
+	controllo raccolta oggetti ✅
+	contatore mosse ✅
+una volta collezionate tutte le carte igeniche il cesso si apre ✅
+	togli leaks di quando vinci il gioco ✅
+se premuto esc, x o si entra nel cesso il gioco finisce  ✅
+
+aggiusta tasti (oltre wasd ed ESC) che rompono il gioco ✅
+norminetta ✅
+makefile elimina .o una volta generato il .out 
+download rename move mlx
+better sprites
+
+							
+
+
+
+
+
+
+
+
+
